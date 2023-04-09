@@ -1,7 +1,7 @@
 # Site settings
 title: onurpicakci # site title
 description: >- # site description
-He's a software developer. He enjoys contributing to open source projects. You can visit his <a href="https://github.com/onurpicakci" target="_blank" rel="noopener">Github</a> account to access his contributions.
+He's a software developer. He enjoys contributing to open source projects. You can visit his <a href="https://github.com/onurpicakci" target="_blank" rel="noopener">@github</a> account to access his contributions.
 lang: en-US # default lang
 timezone: Europe/Istanbul # set your timezone
 image:  # This image used for Open Graph more info https://ogp.me/
