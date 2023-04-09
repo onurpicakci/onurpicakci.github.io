@@ -1,7 +1,6 @@
 # Site settings
 title: onurpicakci # site title
-description: >- # site description
-He's a software developer. He enjoys contributing to open source projects. You can visit his Github profile to access his contributions.
+description: He's a software developer. He enjoys contributing to open source projects. You can visit his Github profile to access his contributions.
 lang: en-US # default lang
 timezone: Europe/Istanbul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
