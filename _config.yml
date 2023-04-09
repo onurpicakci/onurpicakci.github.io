@@ -1,5 +1,5 @@
 # Site settings
-title: Klise Theme # site title
+title: onurpicakci # site title
 description: >- # site description
   He's writing in Bahasa about web technology and experience as a journal 
   for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
@@ -13,14 +13,13 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Onur Pıçakcı # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+   Software Developer
   username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
+  github: onurpicakci # github username
+  twitter: onurpicakcii # twitter username
   facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  email: onurpicakci@hotmail.com # email adress
+  avatar: /assets/img/myImage.jpg # change with your own avatar
 
 # URL settings
 url: "https://klise.now.sh" #
