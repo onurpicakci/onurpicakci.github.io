@@ -9,7 +9,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Onur Pıçakcı # author name
+  name: Onur Pıçakc # author name
   bio: >- # tell to the world
    Software Developer
   username: username # general username
