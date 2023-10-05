@@ -1,5 +1,5 @@
 # Introduction
-Used to prevent errors and ensure data integrity in an application, data validation plays a crucial role. You can do this in many ways with .NET Core, but in this article we will use the very common FluentValidation library.
+Used to prevent errors and ensure data integrity in an application, data validation plays a crucial role. You can do this in many ways with .NET Core, but in this article, we will use the very common FluentValidation library.
 
 # What is FluentValidation?
 
@@ -7,7 +7,7 @@ FluentValidation is a .NET library that provides a fluent interface for defining
 
 Important points about FluentValidation:
 
-- **Fluent Interface:** FluentValidation allows to define validation rules in a fluent way to make the code more readable and easy to understand.
+- **Fluent Interface:** FluentValidation allows to definition of validation rules in a fluent way to make the code more readable and easy to understand.
 
 - **Separation of Concerns:** For cleaner and more modular code, FluentValidation keeps the validation logic separate from the domain model.
 
@@ -17,9 +17,9 @@ Important points about FluentValidation:
 
 # Validating ASP.NET Code with FluentValidation
 
-In this article you will create a validation using FluentValidation and code a simple API.
+In this article, you will create a validation using FluentValidation and code a simple API.
 
-You can access the source code of what we did in the article on my [Github]().
+You can access the source code of what we did in the article on my [Github](https://github.com/onurpicakci/FluentValidation-Example).
 
 ## Requirements
 - .NET 
@@ -108,7 +108,7 @@ Then click `/api/User' and a tab like the one in the image will open. Click on t
 
 ![swagger-post-image](../../assets/img/fluentvalidation-in-dotnet/swagger-post-image.png)
 
-Let's first test if our validation works by entering a wrong data type. We added a validation to enter email in the email type. That's why I am entering the email in an improper format.
+Let's first test if our validation works by entering the wrong data type. We added a validation to enter email in the email type. That's why I am entering the email in an improper format.
 
 ![swagger-wrong-email](../../assets/img/fluentvalidation-in-dotnet/swagger-wrong-email.png)
 
@@ -126,5 +126,4 @@ After pressing the Execute button, we will see below that it returns 200. That's
 
 ## Conclusion
 
-FluentValidation is one of the most used libraries for data validation by ASP.NET. I tried to explain the usage of the library in a simple way as much as I could. I hope it was useful. Hope to see you in my different articles.
-
+As a result, FluentValidation stands out as a powerful tool in the arsenal of any ASP.NET developer looking for robust and sustainable data validation. Its fluid interface simplifies the often complex process of defining validation rules, making the code easier to read and understand.  I tried my best to show you how to use this library and I hope it was useful. Hope to see you in my different articles.
