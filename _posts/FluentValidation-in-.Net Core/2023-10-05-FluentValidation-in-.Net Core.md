@@ -38,7 +38,7 @@ dotnet add package FluentValidation
 
 The Validator you create in this step should inherit from `AbstractValidator<T>` and rules should be created.
 
-```C
+```csharp
 public class UserValidator : AbstractValidator<User>
 {
     public UserValidator()
@@ -61,7 +61,7 @@ public class UserValidator : AbstractValidator<User>
 
 Add verification to the service provider.
 
-```C
+```csharp
 builder.Services.AddScoped<IValidator<User>, UserValidator>();
 ```
 
@@ -69,7 +69,7 @@ builder.Services.AddScoped<IValidator<User>, UserValidator>();
 
 You must use your data authentication in your app. We use it on a controller.
 
-```C
+```csharp
 [Route("api/[controller]")]
 [ApiController]
 public class UserController : ControllerBase
