@@ -7,13 +7,13 @@ FluentValidation is a .NET library that provides a fluent interface for defining
 
 Important points about FluentValidation:
 
-- **Fluent Interface:** FluentValidation allows to definition of validation rules in a fluent way to make the code more readable and easy to understand.
+ **Fluent Interface:** FluentValidation allows to definition of validation rules in a fluent way to make the code more readable and easy to understand.
 
-- **Separation of Concerns:** For cleaner and more modular code, FluentValidation keeps the validation logic separate from the domain model.
+ **Separation of Concerns:** For cleaner and more modular code, FluentValidation keeps the validation logic separate from the domain model.
 
-- **Integration with ASP.NET and MVC Frameworks:** It is commonly used in conjunction with ASP.NET and ASP.NET MVC for server-side validation. It integrates well with the model binding process in these frameworks.
+ **Integration with ASP.NET and MVC Frameworks:** It is commonly used in conjunction with ASP.NET and ASP.NET MVC for server-side validation. It integrates well with the model binding process in these frameworks.
 
-- **Unit Testing:** FluentValidation supports unit testing of validation rules so you can test easily.
+ **Unit Testing:** FluentValidation supports unit testing of validation rules so you can test easily.
 
 # Validating ASP.NET Code with FluentValidation
 
@@ -104,7 +104,7 @@ First, run the API with the IDE you are using
 ![swagger-image](../../assets/img/fluentvalidation-in-dotnet/swagger-image.png)
 
 
-Then click `/api/User' and a tab like the one in the image will open. Click on the `Try it out` button to test it.
+Then click `/api/User'` and a tab like the one in the image will open. Click on the `Try it out` button to test it.
 
 ![swagger-post-image](../../assets/img/fluentvalidation-in-dotnet/swagger-post-image.png)
 
