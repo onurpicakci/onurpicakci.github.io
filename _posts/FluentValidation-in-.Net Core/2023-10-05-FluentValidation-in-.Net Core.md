@@ -26,7 +26,7 @@ You can access the source code of what we did in the article on my [Github](http
 - An IDE you use (Visual Studio Code / Rider)
 - FluentValidation NuGet Package
 
-## 1. Install FluentValidation Nuget Package in Project
+## 1. Adding FluentValidation Nuget Package to a Project
 
 To use FluentValidation in our application, you need to install the Nuget Package/Library.
 
