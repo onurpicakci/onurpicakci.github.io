@@ -127,3 +127,7 @@ After pressing the Execute button, we will see below that it returns 200. That's
 ## Conclusion
 
 As a result, FluentValidation stands out as a powerful tool in the arsenal of any ASP.NET developer looking for robust and sustainable data validation. Its fluid interface simplifies the often complex process of defining validation rules, making the code easier to read and understand.  I tried my best to show you how to use this library and I hope it was useful. Hope to see you in my different articles.
+
+## References
+
+- https://docs.fluentvalidation.net/en/latest/
