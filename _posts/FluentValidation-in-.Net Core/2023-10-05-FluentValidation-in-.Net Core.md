@@ -67,7 +67,7 @@ builder.Services.AddScoped<IValidator<User>, UserValidator>();
 
 ## 4. Use Your Validation in Your App
 
-You must use your data authentication in your app. We use it on a controller.
+You should use data validation in your application. In this application we will use it through a controller.
 
 ```csharp
 [Route("api/[controller]")]
